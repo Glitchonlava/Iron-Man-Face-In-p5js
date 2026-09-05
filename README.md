@@ -1,9 +1,6 @@
 # Iron Man Face In p5.js
 
 A small interactive sketch that draws and (optionally) animates an Iron Man-style face using p5.js. Built with HTML, CSS, and JavaScript — perfect as a learning exercise for p5.js, vector drawing, and simple interactions.
-
-Live demo: https://glitchonlava.github.io/Iron-Man-Face-In-p5js/ (if GitHub Pages is enabled)
-
 ---
 
 ## Table of Contents

@@ -29,14 +29,6 @@ This repository contains a p5.js sketch that renders an Iron Man-inspired face. 
 - Layered coloring for helmet, faceplate, and eyes
 - Basic interaction (hover / click / keys) to trigger simple animations or color changes (adjustable in the sketch)
 - Easily extensible and customizable
-
----
-
-## Screenshot
-Replace this with a screenshot of your sketch.
-
-![screenshot-placeholder](docs/screenshot.png)
-
 ---
 
 ## Technologies

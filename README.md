@@ -27,7 +27,6 @@ This repository contains a p5.js sketch that renders an Iron Man-inspired face. 
 ## Features
 - Vector-style face drawing using p5.js primitives
 - Layered coloring for helmet, faceplate, and eyes
-- Basic interaction (hover / click / keys) to trigger simple animations or color changes (adjustable in the sketch)
 - Easily extensible and customizable
 ---
 
@@ -53,18 +52,6 @@ This repository contains a p5.js sketch that renders an Iron Man-inspired face. 
 
 ---
 
-## Controls
-(Modify these to match the actual controls in your sketch)
-
-- Mouse hover: highlights the faceplate
-- Click: toggles a light/animation on the eyes
-- Keys:
-  - `R` — reset to default
-  - `C` — cycle helmet color
-  - `A` — toggle animation
-
----
-
 ## Customize
 - Colors: change color variables in the main JS file
 - Size: modify canvas creation in `setup()` (p5.js)
@@ -83,11 +70,6 @@ Please include a short description of changes and any screenshots or GIFs.
 
 ---
 
-## License
-Include a license file in this repo if you want others to reuse your code. A common choice is the MIT License. If no license is provided, the default is that all rights are reserved.
-
----
-
 ## Acknowledgements & Legal
 - Built with p5.js — https://p5js.org
 - Iron Man is a trademark and character owned by Marvel / Disney. This project is fan-made and for educational purposes only — no commercial use intended.
@@ -99,8 +81,3 @@ Owner: Glitchonlava
 GitHub: https://github.com/Glitchonlava
 
 ---
-
-If you'd like, I can:
-- Add a ready-to-paste screenshot block with suggested image sizes,
-- Detect actual controls and variables from your code and update the README accordingly,
-- Or generate a LICENSE file (e.g., MIT) and add a GitHub Actions workflow to publish to GitHub Pages.
